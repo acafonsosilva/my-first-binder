@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/main?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/master?urlpath=rstudio)
 
 RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/main?urlpath=shiny/climateFinance-dashboard/)
 
