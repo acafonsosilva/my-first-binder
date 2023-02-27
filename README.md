@@ -1,8 +1,8 @@
 # Specifying an R environment with a runtime.txt file
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/HEAD?urlpath=rstudio)
 
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/master?urlpath=shiny/)
+RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/HEAD?urlpath=shiny/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
