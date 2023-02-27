@@ -1,10 +1,8 @@
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/master?urlpath=rstudio)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
-
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
+RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/acafonsosilva/ClimateFinance/master?urlpath=shiny/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
@@ -42,20 +40,6 @@ the RStudio interface.
 
 This repository also contains an example of a [Shiny app](https://github.com/binder-examples/r/tree/master/bus-dashboard).
 
-## Alternatives
-
-There are many ways to use R in mybinder.org!
-
-**[rocker/binder](https://github.com/rocker-org/binder/)** - this uses a base image from the R community's
-excellent [rocker project](https://www.rocker-project.org/) - you get a lot of curated base
-packages, faster binary package installs as well as ability to pin to a specific version of R (>4.0).
-
-**[r-conda](https://github.com/binder-examples/r-conda)** - mybinder.org also
-supports using the [conda](https://conda.io) package manager to manage R and R packages.
-This gives you access to specific R versions as well as fast installs of R
-packages available in [conda-forge](https://conda-forge.org/)
-
-Another alternative is to use the [holepunch package for R](https://karthik.github.io/holepunch/articles/getting_started.html).
 
 ### URL addresses for RStudio and Shiny environments
 
